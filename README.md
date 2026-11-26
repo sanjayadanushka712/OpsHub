@@ -1,1 +1,1 @@
-# OpsHub
+# OpsHub - Infrastructure & Service Monitoring Platform
