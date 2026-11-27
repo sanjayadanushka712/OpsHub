@@ -21,5 +21,4 @@ def register_service(name, url):
         "url": url,
         "status": "unknown"
     }
-    
     return services
